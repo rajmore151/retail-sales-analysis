@@ -20,5 +20,3 @@
 1. Clone repo
 2. `pip install pandas matplotlib seaborn`
 3. Open `retail_sales_eda.ipynb`
-
-**Portfolio project #1** 🚀 Questions? rajmore151@gmail.com
